@@ -1,0 +1,3 @@
+function aFunction(argument) {
+	// body...
+}
